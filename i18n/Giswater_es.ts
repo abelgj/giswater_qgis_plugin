@@ -79,7 +79,7 @@
     </message> 
     <message>
         <source>15_text</source>
-        <translation>Insert valve</translation>
+        <translation>Insertar válvula</translation>
     </message>   
     <message>
         <source>16_text</source>
